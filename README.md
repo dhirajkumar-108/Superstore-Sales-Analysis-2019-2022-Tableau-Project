@@ -33,7 +33,7 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 - **West region** had the strongest sales; **Central** showed inconsistent profits  
 
 **Screenshot:**  
-![Sales & Regional Insights](screenshots/dashboard1.png)
+![Sales & Regional Insights](Screenshots/dashboard1.png)
 
 ---
 
@@ -48,7 +48,7 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 - Discounts above **20%** led to negative profit margins  
 
 **Screenshot:**  
-![Product & Discount Analysis](screenshots/dashboard2.png)
+![Product & Discount Analysis](Screenshots/dashboard2.png)
 
 ---
 
