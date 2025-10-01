@@ -7,7 +7,7 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 
 ## 📂 Dataset
 - **Source:** [Kaggle – Superstore 2019–22 Dataset](https://www.kaggle.com/datasets/timchant/supstore-dataset-2019-2022)  
-- **Size:** 9,994 records  
+- **Size:** ~9,994 records  
 - **Key Features Used:** Order Date, Ship Mode, Customer, Region, Product Category & Sub-Category, Sales, Quantity, Discount, Profit  
 
 ---
@@ -21,7 +21,7 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 
 ---
 
-## 📊 Dashboards
+## 📊 Dashboards & Screenshots
 
 ### 🔹 Dashboard 1 – Sales & Regional Insights
 - Monthly **Sales & Profit Trends (2019–2022)**  
@@ -31,6 +31,9 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 **Key Insights:**  
 - Overall sales trended upwards, but profits fluctuated due to discounting  
 - **West region** had the strongest sales; **Central** showed inconsistent profits  
+
+**Screenshot:**  
+![Sales & Regional Insights](screenshots/dashboard1.png)
 
 ---
 
@@ -43,6 +46,9 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 - **Chairs, Phones, and Storage** drove most of the revenue  
 - **Tables and Supplies** consistently underperformed in profitability  
 - Discounts above **20%** led to negative profit margins  
+
+**Screenshot:**  
+![Product & Discount Analysis](screenshots/dashboard2.png)
 
 ---
 
@@ -64,4 +70,12 @@ This project analyzes the **Superstore dataset (2019–2022)** from Kaggle using
 ## 📌 Project Deliverables
 - **Interactive Dashboards:**  
   1. Sales & Regional Performance  
-  2. Product & Discount Analysis
+  2. Product & Discount Analysis  
+
+- **Included Files:**  
+  - `Superstore_Sales_Analysis_(2019-2022).twb` → Tableau workbook source file  
+  - Screenshots folder → For visualization reference  
+
+---
+
+> ⚠️ **Note:** GitHub cannot render Tableau workbooks interactively. Please view screenshots for a preview, or open the `.twb` file in Tableau Desktop for full interactivity.
